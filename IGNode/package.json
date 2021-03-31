@@ -5,8 +5,5 @@
     "instagram-private-api": "^1.44.0",
     "node-fetch": "^2.6.1",
     "socks-proxy-agent": "^5.0.0"
-  },
-  "scripts": {
-    "start": "node index manuscript_92 RHGci2IL Группа/Пользователь https://instagram.com/wow_mamita_ c:/users/admin/desktop/temp/фото/инстаграм 100 false false fals login:password@ip:port"
   }
 }
